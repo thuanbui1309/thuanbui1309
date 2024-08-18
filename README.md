@@ -6,7 +6,7 @@ Data Science Student || C++, Python Enthusiast
 
 Second-year Data Science student at Swinburne Vietnam. Interested in Automation and Cloud Computing (AWS).
 
-* 🌍  I'm based in Vietnam
+* 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [buiminhthuan1314@gmail.com](mailto:buiminhthuan1314@gmail.com)
 * 🧠  I'm learning Competitive Programming, Data Science and Machine Learning
 * 🤝  I'm open to collaborating on Python and Cloud-based Projects.
