@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student || C++, Python Enthusiast
 ----------------------------------------------
 
-Second-year Data Science student at Swinburne Vietnam. Interested in Automation and Cloud Computing (AWS).
+Second-year Data Science student at Swinburne Vietnam. Interested in AI, Automation and Cloud Computing Architecture(AWS).
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [buiminhthuan1314@gmail.com](mailto:buiminhthuan1314@gmail.com)
