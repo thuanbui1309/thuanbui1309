@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thuan Bui
 =================================================================================================================================
 
-Data Science Student || C++, Python Enthusiast
+Data Science Student || Python Enthusiast
 ----------------------------------------------
 
 Second-year Data Science student at Swinburne Vietnam. Interested in AI, Automation and Cloud Computing Architecture(AWS).
