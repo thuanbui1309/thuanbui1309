@@ -8,7 +8,6 @@ Artificial Intelligence student at Swinburne Vietnam. Interested in AI, Automati
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [buiminhthuan1314@gmail.com](mailto:buiminhthuan1314@gmail.com)
-* 🧠  I'm learning Competitive Programming, Data Science and Machine Learning
 * 🤝  I'm open to collaborating on Python and Cloud-based Projects.
 * ⚡  I'm a Chelsea fan, and my blood is Blue
 
